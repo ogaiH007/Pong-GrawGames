@@ -1,0 +1,30 @@
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\bin\Debug\Pong meu.exe.config
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\bin\Debug\Pong meu.exe
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\bin\Debug\Pong meu.pdb
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\bin\Debug\OpenTK.dll
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\bin\Debug\OpenTK.pdb
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\bin\Debug\OpenTK.xml
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\obj\Debug\Pong meu.csproj.AssemblyReference.cache
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\obj\Debug\Pong meu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\obj\Debug\Pong meu.csproj.CoreCompileInputs.cache
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\obj\Debug\Pong meu.csproj.CopyComplete
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\obj\Debug\Pong meu.exe
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu\Pong meu\obj\Debug\Pong meu.pdb
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\bin\Debug\Pong meu.exe.config
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\bin\Debug\Pong meu.exe
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\bin\Debug\Pong meu.pdb
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\bin\Debug\OpenTK.dll
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\bin\Debug\OpenTK.pdb
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\bin\Debug\OpenTK.xml
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\obj\Debug\Pong meu.csproj.AssemblyReference.cache
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\obj\Debug\Pong meu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\obj\Debug\Pong meu.csproj.CoreCompileInputs.cache
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\obj\Debug\Pong meu.csproj.CopyComplete
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\obj\Debug\Pong meu.exe
+C:\Users\ogaih\Documents\VS22 Projects\Pong meu para modificar\Pong meu\obj\Debug\Pong meu.pdb
+C:\Users\ogaih\Downloads\Pong meu.exe.config
+C:\Users\ogaih\Downloads\Pong meu.exe
+C:\Users\ogaih\Downloads\Pong meu.pdb
+C:\Users\ogaih\Documents\VS22 Builds\Pong meu.exe.config
+C:\Users\ogaih\Documents\VS22 Builds\Pong meu.exe
+C:\Users\ogaih\Documents\VS22 Builds\Pong meu.pdb
